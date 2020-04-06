@@ -1,0 +1,11 @@
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\bin\Debug\netcoreapp2.2\FirstCHarp.deps.json
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\bin\Debug\netcoreapp2.2\FirstCHarp.runtimeconfig.json
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\bin\Debug\netcoreapp2.2\FirstCHarp.runtimeconfig.dev.json
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\bin\Debug\netcoreapp2.2\FirstCHarp.dll
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\bin\Debug\netcoreapp2.2\FirstCHarp.pdb
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.csprojAssemblyReference.cache
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.csproj.CoreCompileInputs.cache
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.AssemblyInfoInputs.cache
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.AssemblyInfo.cs
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.dll
+C:\Users\henry\desktop\coding\FirstCSharp\FIRSTCharp\obj\Debug\netcoreapp2.2\FirstCHarp.pdb
